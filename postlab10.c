@@ -33,6 +33,7 @@
 #define _XTAL_FREQ 1000000
 #define LEN_MSG 5               // Constante para definir largo de mensaje e iteraciones al enviarlo por el serial
 #define LEN_MSG_2 3             // Constante para definir largo de mensaje e iteraciones al enviarlo por el serial
+
 /*------------------------------------------------------------------------------
  * VARIABLES
  ------------------------------------------------------------------------------*/
